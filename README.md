@@ -1,0 +1,2 @@
+# sample_ruby_cgi_server
+RubyでCGIを実行するための簡単なサンプル．
